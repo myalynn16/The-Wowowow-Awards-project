@@ -4,20 +4,20 @@ h1{ text-align:center;
     font-size:60px;
     }
 body{background:black;
-    background: url("https://i.pinimg.com/originals/a0/11/f2/a011f2aec58024b16cedb04ec734ebc9.jpg");
+     background: url("https://i.pinimg.com/originals/a0/11/f2/a011f2aec58024b16cedb04ec734ebc9.jpg");
     }
 h2{ color:red;
-   font-family: 'Sedgwick Ave', cursive;
+    font-family: 'Sedgwick Ave', cursive;
     font-size:40px;
     }
 h3{color: white;
-font-size:30px;
+    font-size:30px;
     }
 img {border:double 20px;
     color:grey;
     }
 p{ color:white;
-font-size:30px;
+    font-size:30px;
     }
 .music{
     color:white;
@@ -26,7 +26,7 @@ font-size:30px;
 .best{
     color:red;
     font-size:40px;
-     font-family: 'Sedgwick Ave', cursive;
+    font-family: 'Sedgwick Ave', cursive;
 }
 .picture1{
     display: block;
